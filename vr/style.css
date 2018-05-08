@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+
+#main{
+	background-color: #000;
+	width: 100%;
+	height: 100%;
+}
+
+#left{
+	width: 100%;
+	height: 50%;
+	margin: 0;
+}
+#right{
+	top: 50%;
+	width: 100%;
+	height: 50%;
+	margin: 0;
+}
